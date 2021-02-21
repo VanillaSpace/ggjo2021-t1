@@ -11,9 +11,9 @@
 
 This project was done during Brackeys Game Jam 2021.1
 
-- [5th official Brackeys Game Jam](https://globalgamejam.org/2021/games/team-01-amber-1)
+- [GLOBAL GAME JAM](https://globalgamejam.org/2021/games/team-01-amber-1)
 
-- THEME: ``` Stronger Together! ```
+- THEME: ``` Lost and Found ```
 
 # :game_die: Missing();  
 
