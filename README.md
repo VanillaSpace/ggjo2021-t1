@@ -9,11 +9,11 @@
 
 # Event :joystick:
 
-This project was done during the GGJ 2021 (Global Game Jam 2021)
+This project was done during Brackeys Game Jam 2021.1
 
-- [GLOBAL GAME JAM](https://globalgamejam.org/2021/games/team-01-amber-1)
+- [5th official Brackeys Game Jam](https://globalgamejam.org/2021/games/team-01-amber-1)
 
-- THEME: ``` Lost and Found ```
+- THEME: ``` Stronger Together! ```
 
 # :game_die: Missing();  
 
